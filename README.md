@@ -57,7 +57,7 @@ Analyzes a webpage and detects **performance** or **front-end code quality** iss
 
 
 
-## How it works................
+## How it works................15
 
 The tool loads the given URL and collects various metrics and statistics with the help of [Phantomas](https://github.com/macbre/phantomas). These metrics are then categorized and transformed into scores. It also gives in-depth details so developpers can fix the detected issues.
 
