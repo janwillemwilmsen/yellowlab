@@ -57,7 +57,7 @@ Analyzes a webpage and detects **performance** or **front-end code quality** iss
 
 
 
-## How it works
+## How it works................
 
 The tool loads the given URL and collects various metrics and statistics with the help of [Phantomas](https://github.com/macbre/phantomas). These metrics are then categorized and transformed into scores. It also gives in-depth details so developpers can fix the detected issues.
 
@@ -66,7 +66,7 @@ By the way, it's free because I am a geek, not businessmen. In return, you can a
 ![example dashboard screenshot](./doc/img/screenshot.png)
 
 
-## Install your own private instance
+## Install your own private instance....................
 
 If your project is not accessible from outside or if you want to test your localhost, you might want to run your own instance of Yellow Lab Tools.
 
