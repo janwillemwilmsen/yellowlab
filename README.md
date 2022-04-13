@@ -57,7 +57,7 @@ Analyzes a webpage and detects **performance** or **front-end code quality** iss
 
 
 
-## How it works................15
+## How it works................1512514444
 
 The tool loads the given URL and collects various metrics and statistics with the help of [Phantomas](https://github.com/macbre/phantomas). These metrics are then categorized and transformed into scores. It also gives in-depth details so developpers can fix the detected issues.
 
@@ -89,3 +89,7 @@ I can also help your company about Web Performances, visit [my website](https://
 - Vincent L. [magikcypress](https://github.com/magikcypress)
 - Ousama Ben Younes [ousamabenyounes](https://github.com/ousamabenyounes)
 
+git branch -m main develop
+git fetch origin
+git branch -u origin/develop develop
+git remote set-head origin -a
